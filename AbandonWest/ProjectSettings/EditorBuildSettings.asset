@@ -8,4 +8,28 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/MainMenu.unity
+    guid: df200f031f36a5d44a258bf1746705fc
+  - enabled: 1
+    path: Assets/Scene/Wandering.unity
+    guid: a9ea6a01f444624488733ad5ea84ffdc
+  - enabled: 1
+    path: Assets/Scene/Inventory.unity
+    guid: 467b79c06b16e97499b1111ea36fd56e
+  - enabled: 1
+    path: Assets/Scene/Encounter.unity
+    guid: 4560849f182c2bc4b9dd46ed936de023
+  - enabled: 1
+    path: Assets/Scene/Fight.unity
+    guid: 3e6fbb636df28de4993574ad80644dc3
+  - enabled: 1
+    path: Assets/Scene/Constellation.unity
+    guid: 4d2d8a02cd5bcb341817005cc4cfd163
+  - enabled: 1
+    path: Assets/Scene/Death.unity
+    guid: e4d022d7385dbd240bd42dcc0a2b6749
+  - enabled: 1
+    path: Assets/Scene/Option.unity
+    guid: 5eece751aca50f949a3743ad01b1e392
   m_configObjects: {}
