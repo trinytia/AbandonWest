@@ -30,6 +30,12 @@ EditorBuildSettings:
     path: Assets/Scene/Death.unity
     guid: e4d022d7385dbd240bd42dcc0a2b6749
   - enabled: 1
-    path: Assets/Scene/Option.unity
+    path: Assets/Scene/UI/Option.unity
     guid: 5eece751aca50f949a3743ad01b1e392
+  - enabled: 1
+    path: Assets/Scene/UI/BlackScreen.unity
+    guid: abfac25c2ac12884eb5a57b579fc791c
+  - enabled: 1
+    path: Assets/Scene/UI/BlackScreenOpenScene.unity
+    guid: 47d24e6e670c1f64a8d13afa2a6f0bff
   m_configObjects: {}

@@ -1,4 +1,0 @@
-Id,Name,SpriteName,DialogueNumber,Dialogue1,Dialogue2,Dialogue3,Dialogue4,Dialogue5,Dialogue6,Dialogue7,Dialogue8,Dialogue9,Dialogue10,Weapon,Bullet1,Bullet2,Bullet3,Bullet4,Bullet5,Bullet6,Trinket1,Trinket2,Trinket3,Loot
-1,Mission1,Mission1_Dead,10,Bla1,Bla2,Bla3,Bla4,Bla5,Bla6,Bla7,Bla8,Bla9,Bla10,Shotgun,Basic,Basic,Basic,Basic,Basic,Basic,DrapeauColonialiste,,,
-2,Mission2,Mission2_Idle,5,Bla1,Bla2,Bla3,Bla4,Bla5,,,,,,Revolver,Perforante,Basic,Basic,Basic,Basic,Basic,,,,Basic_Basic_DrapeauColonialiste
-3,Mission3,Mission4_Hit,2,Bla1,Bla2,,,,,,,,,Winchester,Fire,Basic,Basic,Basic,Basic,Basic,Sandale,Tongue,Ballerine,Fire_Fire
