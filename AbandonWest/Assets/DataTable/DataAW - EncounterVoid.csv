@@ -1,0 +1,10 @@
+0,Name,SpriteName,DialogueNumber,ShootAtEnd,Dialogue1,Dialogue2,Dialogue3,Dialogue4,Dialogue5,Dialogue6,Dialogue7,Dialogue8,Dialogue9,Dialogue10,Weapon,Bullet1,Bullet2,Bullet3,Bullet4,Bullet5,Bullet6,Trinket1,Trinket2,Trinket3,Loot,IdTrigger,*
+1,Mission1,Mission1_Dead,9,FALSE,,,,,,,,,,,Shotgun,Basic,Basic,Basic,Basic,Basic,Basic,DrapeauColonialiste,,,,,*
+2,Mission2,Mission2_Idle,5,FALSE,,,,,,,,,,,Revolver,Perforante,Basic,Basic,Basic,Basic,Basic,,,,Basic_Basic_DrapeauColonialiste,,*
+3,Mission3,Mission4_Hit,2,TRUE,,,,,,,,,,,Winchester,Fire,Basic,Basic,Basic,Basic,Basic,Sandale,Tongue,Ballerine,Fire_Fire,,*
+4,Mission4,Mission1_Dead,10,FALSE,,,,,,,,,,,Shotgun,Basic,Basic,Basic,Basic,Basic,Basic,DrapeauColonialiste,,,,,*
+5,Mission5,Mission2_Idle,5,FALSE,,,,,,,,,,,Revolver,Perforante,Basic,Basic,Basic,Basic,Basic,,,,Basic_Basic_DrapeauColonialiste,,*
+6,Mission6,Mission4_Hit,2,TRUE,,,,,,,,,,,Winchester,Fire,Basic,Basic,Basic,Basic,Basic,Sandale,Tongue,Ballerine,Fire_Fire,,*
+7,Mission7,Mission1_Dead,10,FALSE,,,,,,,,,,,Shotgun,Basic,Basic,Basic,Basic,Basic,Basic,DrapeauColonialiste,,,,,*
+8,Mission8,Mission2_Idle,5,FALSE,,,,,,,,,,,Revolver,Perforante,Basic,Basic,Basic,Basic,Basic,,,,Basic_Basic_DrapeauColonialiste,,*
+9,Mission9,Mission4_Hit,2,TRUE,,,,,,,,,,,Winchester,Fire,Basic,Basic,Basic,Basic,Basic,Sandale,Tongue,Ballerine,Fire_Fire,,
