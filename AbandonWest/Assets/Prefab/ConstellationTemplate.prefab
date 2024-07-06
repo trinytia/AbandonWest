@@ -50,7 +50,8 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ListOfVariable","value":{"$content":[{"$content":"Id","$type":"System.String"},{"$content":"Name","$type":"System.String"},{"$content":"SpriteName","$type":"System.String"},{"$content":"EncounterProbable","$type":"System.String"},{"$content":"Slot1","$type":"System.String"},{"$content":"Slot2","$type":"System.String"},{"$content":"Slot3","$type":"System.String"},{"$content":"Slot4","$type":"System.String"},{"$content":"Slot5","$type":"System.String"},{"$content":"Slot6","$type":"System.String"},{"$content":"Slot7","$type":"System.String"},{"$content":"Slot8","$type":"System.String"},{"$content":"Slot9","$type":"System.String"},{"$content":"Slot10","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfEncounterProbable","value":{"$content":[],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ParentBiome","value":null,"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &-2966298646153518360
 MonoBehaviour:
